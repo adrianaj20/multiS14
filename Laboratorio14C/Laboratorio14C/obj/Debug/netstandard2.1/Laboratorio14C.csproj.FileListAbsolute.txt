@@ -1,0 +1,17 @@
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Views\CoursesInsertView.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Views\CoursesListView.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.dll
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\refint\Laboratorio14C.dll
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\Laboratorio14C.pdb
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\bin\Debug\netstandard2.1\Laboratorio14C.deps.json
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\bin\Debug\netstandard2.1\Laboratorio14C.dll
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\bin\Debug\netstandard2.1\Laboratorio14C.pdb
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Alumno\source\repos\Laboratorio14C\Laboratorio14C\Laboratorio14C\obj\Debug\netstandard2.1\ref\Laboratorio14C.dll

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Laboratorio14C.Views.CoursesInsertView">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label Text="Nombre del curso" FontSize="Medium" />
+            <Entry x:Name="nameEntry" Placeholder="Nombre del curso" />
+
+            <Label Text="Descripción del curso" FontSize="Medium" />
+            <Editor x:Name="descriptionEntry" Placeholder="Descripción del curso" HeightRequest="100" VerticalOptions="Start" />
+
+            <Label Text="Crédito del curso" FontSize="Medium" />
+            <Entry x:Name="creditEntry" Placeholder="Crédito del curso" Keyboard="Numeric" VerticalOptions="Start" />
+
+            <Label Text="Fecha de inicio del curso" FontSize="Medium" />
+            <DatePicker x:Name="startDatePicker" Format="yyyy-MM-dd" />
+
+            <Button x:Name="saveButton" Text="Guardar" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
